@@ -1,0 +1,28 @@
+body {
+    font-family: 'Georgia', cursive;
+    background-color:mistyrose
+}
+.text_images_and_result {
+    background: lightsalmon;
+	padding: 30px;
+	border-radius: 20px;
+	width: 50%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px rgb(19, 55, 97);
+}
+.copyright_footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 10px;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+}
+.header_div {
+    background-color: white;
+    color: #0f79dd;
+}
+.header_div img {
+    width: 100px;
+}
